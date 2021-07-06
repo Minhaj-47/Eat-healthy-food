@@ -58,3 +58,16 @@ body{
     height: 100%;
     object-fit: contain;
   }
+  #recipies-section img {
+    width: 100%;
+  }
+  .recipe-item {
+    width: 25%;
+    margin: 5%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 30px;
+    padding: 20px;
+  }
+  .text-align {
+    text-align: center;
+  }
